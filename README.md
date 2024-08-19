@@ -25,3 +25,8 @@ This repo is under the CC BY 4.0 license.
 
 To everyone who works on the [Hambaanglaang project](https://hambaanglaang.hk/), thank you very much for your hard work!
 
+
+## Contributions
+
+This is work in progress. Suggestions and feedback are welcome, just use _Issues_ please.
+
