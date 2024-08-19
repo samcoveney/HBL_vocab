@@ -15,3 +15,13 @@ Each word appears only once in the master spreadsheet `HBL_vocab.csv`, and only 
 
 Additionally, some Anki decks are included for convenience.
 
+
+## License
+
+This repo is under the CC BY 4.0 license.
+
+
+## Acknowledgement
+
+To everyone who works on the [Hambaanglaang project](https://hambaanglaang.hk/), thank you very much for your hard work!
+
